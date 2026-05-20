@@ -20,7 +20,7 @@ Maintaining these projects and managing community contributions is a difficult t
 - **Your documentation** helps improve existing content.
 
 We value contributions, and the most active and consistent contributors are rewarded with public recognition, a certificate, and medals (BATKA, TALENT, KARAT) according to the Csindra Foundation's value system.
-### 🔒 Biztonság
+### 🔒 Security
 
 Please comply with the Foundation's [data protection policy](https://web.csindra.hu/adatkezelesi-tajekoztato/) and [code of ethics](https://web.csindra.hu/wp-content/uploads/2026/04/Csindra-Alapitvany-Etikai-Kodex-2026.4.20.pdf). Please read our LICENSE terms.
 
