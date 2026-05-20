@@ -1,6 +1,6 @@
 # 🛰 Üdvözlünk a MERI nyílt forráskódú közösségében!
 
-### MERI 👉🏻 [(EN)📜](https://github.com/Fizikova-Csindra/MERI/blob/main/README_EN.md)
+### MERI 👉🏻 [(EN)📜](https://github.com/Fizikova-Csindra/MERI/blob/main/README.en.md)
 #### Magyar Egyetemek Robotika Iskolája/Mechanics Education in Robotics Institut.
 Ez az oldal ad otthont a Csindra Alapítvány és Partnerei által kezelt különféle nyílt forráskódú robotépítő projekteknek, beleértve:
 
