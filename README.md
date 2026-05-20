@@ -24,7 +24,7 @@ Ezeknek a projekteknek a fenntartása és a közösségi hozzájárulások kezel
 
 ### 🔒 Biztonság
 
-Az Alapítvány [adatvédelmi szabályzatát](https://web.csindra.hu/adatkezelesi-tajekoztato/) és [etikai kódexét](https://web.csindra.hu/wp-content/uploads/2026/04/Csindra-Alapitvany-Etikai-Kodex-2026.4.20.pdf) tartsd be. Olvasd el a LICENCE feltételünket.
+Az Alapítvány [adatvédelmi szabályzatát](https://web.csindra.hu/adatkezelesi-tajekoztato/) és [etikai kódexét](https://web.csindra.hu/wp-content/uploads/2026/04/Csindra-Alapitvany-Etikai-Kodex-2026.4.20.pdf) tartsd be. Olvasd el a [LICENSZ](https://github.com/Fizikova-Csindra/MERI/blob/main/LICENSZ.md) feltételünket.
 
 
 
