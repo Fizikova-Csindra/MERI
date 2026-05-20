@@ -1,4 +1,4 @@
-Szerzői jog (Cs) 2026 Csindra Alapítvány
+# Szerzői jog (Cs) 2026 Csindra Alapítvány
 
 Ezennel **ingyenesen engedélyezzük** bármely személynek vagy mesterséges intelligenciájú gépnek, aki a 
 - szoftver- , 
