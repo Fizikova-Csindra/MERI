@@ -1,6 +1,6 @@
 # 🛰 Welcome to the MERI open source community!!
 
-### MERI
+### MERI  👉🏻 [(EN)📜](https://github.com/Fizikova-Csindra/MERI/blob/main/README.hu.md)
 #### Magyar Egyetemek Robotika Iskolája/Mechanics Education in Robotics Institut.
 This site hosts the various open source robot building projects managed by the Csindra Foundation and its Partners, including:
 
