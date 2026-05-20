@@ -1,20 +1,23 @@
-# Szerzői jog (Cs) 2026 Csindra Alapítvány
+# Copyright (Cs) 2026 [Csindra Foundation](https://www.csindra.hu)
 
-Ezennel **ingyenesen engedélyezzük** bármely személynek vagy mesterséges intelligenciájú gépnek, aki a 
-- szoftver- , 
-- műszaki rajz- , 
-- gyártáshoz használt adatok és mintafájlok,
-- és az ezekhez kapcsolódó dokumentációs fájlok,
-- **(a továbbiakban műszaki információ)**
-**másolatát**, megszerzi, hogy az információkkal korlátozás nélkül kereskedjen, beleértve a műszaki információ
-- korlátozás nélküli saját célú használatát,
-- módosítását,
-- egyesítését, 
-- közzétételét, 
-- terjesztését,
-- allicencbe adásának és/vagy példányainak értékesítésének jogát,
-valamint hogy engedélyezzük a Szoftvert birtokló személyek számára mindezek megtételét **a következő _feltételek_ mellett:**
+Permission is hereby granted, **free of charge**, to any person or artificially intelligent machine who obtains a copy of the
+- software,
+- technical drawings,
+- manufacturing data and sample files,
+- and related documentation files,
+- **(hereinafter referred to as Technical Information)**
+to deal in the Technical Information without restriction, including the right to
+- use the technical information for their own purposes without restriction,
+- modify,
+- combine,
+- publish,
+- distribute,
+- sublicense and/or sell copies of it,
+and to permit persons possessing the Software to do all of the following **subject to the following _conditions_:**
 
-A fenti szerzői jogi nyilatkozatot és ezt az engedélyezési nyilatkozatot a **műszaki információ** minden másolatában vagy jelentős részében szerepeltetni kell.
+The above copyright notice and this license notice must be included in all copies or substantial portions of the **technical information**.
 
-A **MŰSZAKI INFORMÁCIÓ**T „JELENLEGI ÁLLAPOTBAN”, BÁRMILYEN KIFEJEZETT VAGY VÉLELMEZTETETT GARANCIA NÉLKÜL BIZTOSÍTJUK, BELEÉRTVE, DE NEM KIZÁRÓLAGOSAN AZ ELADHATÓSÁGRA, EGY ADOTT CÉLRA VALÓ ALKALMASSÁGRA ÉS A JOGTISZTELETRE VONATKOZÓ GARANCIÁKAT. A SZERZŐK VAGY A SZERZŐI JOG TULAJDONOSAINEK SEMMILYEN ESETBEN **SEM VÁLLALNAK FELELŐSSÉGET** SEMMILYEN IGÉNYÉRT, KÁRÉRT VAGY EGYÉB FELELŐSSÉGÉRT AMELY A MŰSZAKI INFORMÁCIÓ TARTALMÁBÓL, HASZNÁLATÁBÓL VAGY EGYÉB ÜGYLETEIBŐL ERED, AZZAL KAPCSOLATBAN ÁLL.
+THE **TECHNICAL INFORMATION** IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INFORMATION OR THE USE OR OTHER DEALINGS IN THE TECHNICAL INFORMATION.
+
+
+
