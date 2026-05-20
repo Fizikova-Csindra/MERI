@@ -14,6 +14,7 @@ to deal in the Technical Information without restriction, including the right to
 - publish,
 - distribute,
 - sublicense and/or sell copies of it,
+
 and to permit persons possessing the Software to do all of the following **subject to the following _conditions_:**
 
 The above copyright notice and this license notice must be included in all copies or substantial portions of the **technical information**.
