@@ -6,6 +6,7 @@ Permission is hereby granted, **free of charge**, to any person or artificially 
 - manufacturing data and sample files,
 - and related documentation files,
 - **(hereinafter referred to as Technical Information)**
+
 to deal in the Technical Information without restriction, including the right to
 - use the technical information for their own purposes without restriction,
 - modify,
