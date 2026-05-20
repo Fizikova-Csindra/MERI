@@ -13,6 +13,7 @@ Ezennel **ingyenesen engedélyezzük** bármely személynek vagy mesterséges in
 - közzétételét, 
 - terjesztését,
 - allicencbe adásának és/vagy példányainak értékesítésének jogát,
+  
 valamint hogy engedélyezzük a Szoftvert birtokló személyek számára mindezek megtételét **a következő _feltételek_ mellett:**
 
 A fenti szerzői jogi nyilatkozatot és ezt az engedélyezési nyilatkozatot a **műszaki információ** minden másolatában vagy jelentős részében szerepeltetni kell.
