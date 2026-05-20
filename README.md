@@ -17,8 +17,8 @@ Ezeknek a projekteknek a fenntartása és a közösségi hozzájárulások kezel
 - **Nyitott problémák megoldásához**: próbáld meg reprodukálni a más felhasználók által jelentett problémákat, és erősítsd meg, hogy te is tapasztalod-e őket, vagy kérj további részleteket a felhasználóktól, ha szükséges. Javítsd a leírásokat. Segíts a támogatást kérő felhasználóknak.
 - **Javítások és implementációk beküldéséhez**: válassz ki egy segítségkérést, amelyről úgy gondolod, hogy magad is meg tudod valósítani, és küldj be egy dokumentációt egy implementációval együtt.
 - **Teszt megoldásokhoz** egy nyílt implementációra: próbáld meg elkészíteni a javasolt módosításokat, és írd le a sikert vagy a kudarcot. A valódi hardveren történő tesztelés időt vesz igénybe, és bármilyen segítség ebben felgyorsítja a közös munkánkat.
-- **Mások segítéséhez** a problémájuk megoldásában, és tégy javaslatot a javításokra.
-- **Dokumentáció készítéshez** a meglévő tartalmak fejlesztését segíti.
+- **Mások segítéséhez** a problémájuk megoldásában: tégy javaslatot a javításokra.
+- **Dokumentáció készítéshez:** a meglévő tartalmak fejlesztése munkánkat segíti.
 
 Értékeljük a közreműködéseket, és a legaktívabb, legállandóbb közreműködőket nyilvános elismerésben, oklevélben és a Csindra Alapítvány értékrendje szerinti érmekkel (BATKA, TALENTUM, KARÁT) jutalmazzuk.
 
